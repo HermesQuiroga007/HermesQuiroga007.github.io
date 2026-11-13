@@ -21,6 +21,8 @@ export default function Hero() {
           />
         </div>
 
+        {/* titulo */}
+
         <h1 className="hero__title">
           José <span>Quiroga</span>
         </h1>
